@@ -6,7 +6,7 @@ public class ProgramaEncapsulamiento {
         System.out.println("Nombre: " + persona1.getNombre());
         System.out.println("Edad: " + persona1.getEdad());
 
-        // Modificando la edad utilizando el método setter
+        // Modificando la edad
         persona1.setEdad(35);
 
         // Mostrando la información de la persona
